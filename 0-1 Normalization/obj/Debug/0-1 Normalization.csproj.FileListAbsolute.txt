@@ -1,0 +1,12 @@
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\bin\Debug\0-1 Normalization.exe.config
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\bin\Debug\0-1 Normalization.exe
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\bin\Debug\0-1 Normalization.pdb
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\bin\Debug\FakeData.dll
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\bin\Debug\FakeData.pdb
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\0-1 Normalization.csprojResolveAssemblyReference.cache
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\_0_1_Normalization.Form1.resources
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\_0_1_Normalization.Properties.Resources.resources
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\0-1 Normalization.csproj.GenerateResource.Cache
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\0-1 Normalization.csproj.CoreCompileInputs.cache
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\0-1 Normalization.exe
+D:\VERİ MADENCİLİĞİ ÖRNEKLERİ\0-1 Normalization\0-1 Normalization\obj\Debug\0-1 Normalization.pdb
